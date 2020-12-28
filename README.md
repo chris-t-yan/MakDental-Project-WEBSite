@@ -1,2 +1,2 @@
 # MakDental-Project-WEBSite
- Front end project
+Front end client project
